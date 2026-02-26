@@ -1,25 +1,22 @@
-# 11402_CS351 - AI-assisted Software Development
+# AI-assisted Software Development
 
-## Course Description
+Brief Description: This course provides a practical introduction to integrating AI tools into software development workflows, emphasizing AI-driven code generation, debugging, testing, and ethical practices through hands-on projects and real-world case studies.
 
-**AI-assisted Software Development** is a modern course that explores how artificial intelligence tools and assistants are transforming the software development landscape. Students will gain hands-on experience with AI-powered development tools like GitHub Copilot, ChatGPT, and other assistants to enhance productivity, code quality, and problem-solving capabilities.
+## Course Overview
 
-## Core Topics
+This course explores the integration of artificial intelligence in modern software development. Students will learn how AI tools can enhance productivity, improve code quality, and automate repetitive tasks.
 
-- **AI Development Tools & Setup**: Introduction to modern AI assistants and their integration into development environments
-- **Code Generation & Completion**: Leveraging AI for faster code writing and intelligent code suggestions
-- **Prompt Engineering**: Crafting effective prompts to get accurate and useful AI-generated code
-- **Debugging & Problem-Solving**: Using AI to identify bugs, optimize code, and solve complex technical challenges
-- **Code Review & Quality**: Evaluating AI-generated code and maintaining high standards
-- **Workflow Integration**: Best practices for incorporating AI tools into real-world development projects
-- **Ethical Considerations**: Understanding limitations, biases, and responsible use of AI in software development
+## Key Topics
+
+- **AI-driven Code Generation**: Understanding how AI models generate code and best practices for leveraging these capabilities
+- **Debugging & Code Analysis**: Using AI to identify bugs, optimize performance, and improve code maintainability
+- **Testing & Quality Assurance**: Automated test generation and AI-powered quality assurance strategies
+- **Ethical Considerations**: Privacy, bias, security, and responsible use of AI in software development
 
 ## Learning Outcomes
 
-Upon completion, students will:
-- Profitably use AI assistants to accelerate development workflows
-- Understand the strengths and limitations of AI-generated code
-- Write effective prompts for software development tasks
-- Evaluate and refactor AI-generated solutions
-- Apply critical thinking when working with AI-assisted tools
-- Integrate AI tools ethically and responsibly into professional projects
+By the end of this course, students will:
+- Understand the capabilities and limitations of AI-assisted development tools
+- Apply AI techniques to real-world software development challenges
+- Evaluate trade-offs between automation and human oversight
+- Develop ethical frameworks for responsible AI tool usage
